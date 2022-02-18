@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies_fragment_label">Peliculas</string>
+    <string name="fav_fragment_label">Mis peliculas</string>
+</resources>
